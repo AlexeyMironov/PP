@@ -1,0 +1,6 @@
+H:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+h:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\bin\Debug\lab_4.exe
+h:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\bin\Debug\lab_4.pdb
+h:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\obj\Debug\lab_4.csprojResolveAssemblyReference.cache
+h:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\obj\Debug\lab_4.exe
+h:\Programm\3_course\PP\2 semester\lab_4\lab_4\lab_4\obj\Debug\lab_4.pdb
